@@ -3,6 +3,6 @@
  * untuk membuat suatu widget berada pada posisi tengah. 
  */
 
-Center(
-  child: Text('Text berada di tengah'),
-)
+// Center(
+//   child: Text('Text berada di tengah'),
+// )
